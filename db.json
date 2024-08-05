@@ -1,0 +1,28 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Example Article",
+        "body": "This is an example.",
+        "imageUrl": []
+      },
+      {
+        "id": 2,
+        "title": "Second Article",
+        "body": "This is also an example.",
+        "imageUrl": []
+      },
+      {
+        "title": "Third Article",
+        "body": "Another example!",
+        "imageUrl": [],
+        "id": 3
+      }
+    ],
+    "admin": [
+      {
+        "username": "lightcietech",
+        "password": "lightcietech123"
+      }
+    ]
+  }
