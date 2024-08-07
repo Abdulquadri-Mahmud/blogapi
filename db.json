@@ -3,17 +3,20 @@
       {
         "id": 1,
         "title": "Example Article",
+        "postedBy": "Admin",
         "body": "This is an example.",
         "imageUrl": []
       },
       {
         "id": 2,
         "title": "Second Article",
+        "postedBy": "Admin",
         "body": "This is also an example.",
         "imageUrl": []
       },
       {
         "title": "Third Article",
+        "postedBy": "Admin",
         "body": "Another example!",
         "imageUrl": [],
         "id": 3
